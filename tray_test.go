@@ -3,7 +3,7 @@ package astilectron
 import (
 	"testing"
 
-	"github.com/asticode/go-astitools/context"
+	"github.com/hkloudou/go-astitools/context"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/asticode/go-astilog"
+	"github.com/hkloudou/go-astilog"
 	"github.com/pkg/errors"
 )
 

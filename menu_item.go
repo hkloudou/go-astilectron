@@ -3,7 +3,7 @@ package astilectron
 import (
 	"context"
 
-	"github.com/asticode/go-astitools/context"
+	"github.com/hkloudou/go-astitools/context"
 )
 
 // Menu item event names

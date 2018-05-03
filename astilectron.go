@@ -10,9 +10,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/asticode/go-astilog"
-	"github.com/asticode/go-astitools/context"
-	"github.com/asticode/go-astitools/exec"
+	"github.com/hkloudou/go-astilog"
+	"github.com/hkloudou/go-astitools/context"
+	"github.com/hkloudou/go-astitools/exec"
 	"github.com/pkg/errors"
 )
 

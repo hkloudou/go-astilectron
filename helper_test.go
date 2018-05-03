@@ -12,7 +12,7 @@ import (
 
 	"sync"
 
-	"github.com/asticode/go-astitools/context"
+	"github.com/hkloudou/go-astitools/context"
 	"github.com/pkg/errors"
 	"github.com/rs/xid"
 	"github.com/stretchr/testify/assert"

@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"regexp"
 
-	"github.com/asticode/go-astilog"
-	"github.com/asticode/go-astitools/os"
-	"github.com/asticode/go-astitools/regexp"
+	"github.com/hkloudou/go-astilog"
+	"github.com/hkloudou/go-astitools/os"
+	"github.com/hkloudou/go-astitools/regexp"
 	"github.com/pkg/errors"
 )
 
