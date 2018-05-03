@@ -8,10 +8,10 @@
   version = "v1.1.0"
 
 [[projects]]
-  branch = "master"
   name = "github.com/hkloudou/go-astilog"
   packages = ["."]
-  revision = "48409865148a0f397641b786ff35158bba19c48f"
+  revision = "7dc4982e7071c367462424c48f930e8c41275586"
+  version = "2.0.1"
 
 [[projects]]
   name = "github.com/hkloudou/go-astitools"
@@ -25,8 +25,8 @@
     "url",
     "zip"
   ]
-  revision = "c0a7f997fecb896c607a53370578a66ec269cfa6"
-  version = "0.1.0"
+  revision = "ddddbe3df8fc4c70868a6070963caa525c5a208f"
+  version = "2.0.1"
 
 [[projects]]
   name = "github.com/julienschmidt/httprouter"
@@ -94,6 +94,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "d9f396795b2ba271e2d38181ec088fd7c674a2eb782cf1bc5341dda1c196a54b"
+  inputs-digest = "c89576fce67de8cb6b4d9577be0c9545917ba27f551eca2a732bdb71735e4b70"
   solver-name = "gps-cdcl"
   solver-version = 1
