@@ -88,7 +88,7 @@ func (p *Paths) initDataDirectory(appName string) {
 
 // AstilectronDownloadSrc returns the download URL of the (currently platform-independent) astilectron zip file
 func AstilectronDownloadSrc() string {
-	return fmt.Sprintf("https://github.com/asticode/astilectron/archive/v%s.zip", VersionAstilectron)
+	return fmt.Sprintf("https://github.com/hkloudou/astilectron/archive/v%s.zip", VersionAstilectron)
 }
 
 // ElectronDownloadSrc returns the download URL of the platform-dependant electron zipfile
